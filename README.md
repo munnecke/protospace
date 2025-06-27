@@ -1,7 +1,9 @@
 
 # Protospace: Thought experiment Exploring Phase Transitions 
 
-A glass containing water in two phases, liquid and solid.  The same substance going through a phase transition between the two phases. What if dark matter and "normal" space were manifestations of the same underlying "protospace" that we see as containing dark matter as a phase transition from "normal" space?  What if one phase contained an "entropic" space, where our familiar notion of entropy and the second law of thermodynamics, causality, and time's arrow all held true.  Another phase, we can call autocatlytic space had the property that adding material to the space made it larger, rather than "using it up" in the entropic space?  This software uses this model to look for signatures of this "glass of water" view of the cosmos.
+Imagine a glass containing water in two phases, liquid and solid.  The same substance going through a phase transition between the two phases. How might we map the ice in the glass by looking at it through various instruments?
+
+ What if dark matter and "normal" space were manifestations of the same underlying "protospace" that we see as containing dark matter as a phase transition from "normal" space?  What if one phase contained an "entropic" space, where our familiar notion of entropy and the second law of thermodynamics, causality, and time's arrow all held true.  Another phase, we can call autocatlytic space had the property that adding material to the space made it larger, rather than "using it up" in the entropic space?  This software uses this model to look for signatures of this "glass of water" view of the cosmos.
 
 This repository hosts an ongoing research project investigating the hypothesis that **space itself may exist in multiple thermodynamic or information-theoretic phases**. Inspired by the historical unification of “heat” and “cold” as expressions of thermal energy, this project explores the possibility that **baryonic matter, dark matter, and dark energy** are not fundamentally different substances, but rather distinct **phases of an underlying substrate**—a concept we call **protospace**.
 
